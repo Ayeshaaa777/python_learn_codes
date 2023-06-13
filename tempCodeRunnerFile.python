@@ -1,0 +1,8 @@
+# for example I want to print 10 numbers in python
+
+# python is a programming language 
+
+print("hi im siddique")
+
+for i in range(11):
+    print("im siddique")
